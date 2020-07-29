@@ -1,4 +1,3 @@
-## Feature kafka documentation
+To reproduce:
 
-- [Micronaut Kafka Messaging documentation](https://micronaut-projects.github.io/micronaut-kafka/latest/guide/index.html)
-
+./gradlew test
