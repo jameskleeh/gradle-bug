@@ -1,0 +1,6 @@
+applicationType: messaging
+defaultPackage: temp
+testFramework: spock
+sourceLanguage: java
+buildTool: gradle
+features: [app-name, docker, file-watch, file-watch-osx, gradle, java, java-application, kafka, logback, readme, shade, spock, yaml]
